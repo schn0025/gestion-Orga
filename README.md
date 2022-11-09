@@ -14,12 +14,14 @@
 - https://iut-info.univ-reims.fr/gitlab/schn0025/gestion-orga/-/blob/master/chx_strat.odt
 
 # Mise en page
+
+**Global**
 Police (font): 
 
 **Titres - sous-titres**
-Taille de police: 16px pour les titres, 14 pour les sous-titres
-Alignement: Center
+- Taille de police: 16px pour les titres, 14 pour les sous-titres
+- Alignement: Center
 
 **Paragraphes**
-Taille de police: 12px
-Alignement: Justifier
+- Taille de police: 12px
+- Alignement: Justifier
