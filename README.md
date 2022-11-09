@@ -16,12 +16,16 @@
 # Mise en page
 
 **Global**
-Police (font): 
+- Police (font): **Liberation Serif**
 
-**Titres - sous-titres**
-- Taille de police: 16px pour les titres, 14 pour les sous-titres
-- Alignement: Center
+**Titres**
+- Taille de police: **16px**
+- Alignement: **Center**
+
+**Sous-titres**
+- Taille de police: **14px**
+- Alignement: **Gauche**
 
 **Paragraphes**
-- Taille de police: 12px
-- Alignement: Justifier
+- Taille de police: **12px**
+- Alignement: **Justifier**
